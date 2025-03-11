@@ -1,6 +1,8 @@
 # 📝 Text2TableX
 A project developed for personal purposes because I was tired of spending more time making tables for school projects than getting information!
 
+# Introduction
+
 Text2TableX offers the possibility of transforming plain text with format to a Docx table in a simple way. 
 To run the program you simply need to call it and pass it two arguments: 
 
@@ -10,6 +12,12 @@ To run the program you simply need to call it and pass it two arguments:
 Example: 
 ```
 python.exe Text2TableX.py --path example.txt --output output.docx
+```
+
+# Installation
+Run the command
+```
+pip install -r requirements.txt
 ```
 
 # 📁 Interpretable files
